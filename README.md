@@ -1,2 +1,2 @@
-# Babita-shrestha
+# project
 This is my git repository
